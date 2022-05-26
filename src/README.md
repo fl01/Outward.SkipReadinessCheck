@@ -1,0 +1,1 @@
+﻿There is no need to click 'Space' after loading screen
